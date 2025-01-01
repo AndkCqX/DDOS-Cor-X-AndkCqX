@@ -3,7 +3,7 @@ import os
 import time as t
 import socket
 import random as r
-#Code Time
+
 from datetime import datetime
 now = datetime.now()
 hour = now.hour
@@ -15,9 +15,6 @@ year = now.year
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = r._urandom(1490)
 
-
-os.system("clear")
-os.system("AndkCqX | Cor X")
 print()
 print("github   : https://github.com/Elsa-zlt")
 print("Telegram : @AndkCq")
