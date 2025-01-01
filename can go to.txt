@@ -4,6 +4,9 @@ pkg install python
 
 pkg install git -y
 
+git clone 
+https://github.com/AndkCqX/DDOS-Cor-X-AndkCqX
+
 cd DDOS-Cor-X-AndkCqX
 
 # kali
