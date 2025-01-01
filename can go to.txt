@@ -1,0 +1,13 @@
+# can go to
+
+pkg install python
+
+pkg install git -y
+
+cd DDOS-Cor-X-AndkCqX
+
+# kali
+python3 ddos-cq.py 
+
+# termux 
+python2 ddos-cq.py
