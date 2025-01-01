@@ -16,7 +16,7 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = r._urandom(1490)
 
 print()
-print("github   : https://github.com/Elsa-zlt")
+print("github   : https://github.com/AndkCqX/DDOS-Cor-X-AndkCqX")
 print("Telegram : @AndkCq")
 print()
 ip = input("IP : ")
