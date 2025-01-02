@@ -1,4 +1,5 @@
 # can go to
+import time as t
 
 print("pkg install python")
 t.sleep(0.05)
