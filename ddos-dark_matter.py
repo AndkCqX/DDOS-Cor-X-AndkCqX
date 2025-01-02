@@ -35,7 +35,7 @@ print("""----------------------------------------------
 print()
 print("github   : https://github.com/AndkCqX/DDOS-Cor-X-AndkCqX")
 print("Telegram : @AndkCq")
-print(" CQ or DrakMatter | From Cor X")
+print("           CQ or DrakMatter | From Cor X")
 print()
 ip = input("IP : ")
 port = int(input("Speed : "))
