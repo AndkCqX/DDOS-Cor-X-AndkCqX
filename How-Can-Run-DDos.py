@@ -7,7 +7,7 @@ t.sleep(0.05)
 print("""git clone 
 https://github.com/AndkCqX/DDOS-Cor-X-AndkCqX""")
 t.sleep(0.05)
-print("cd DDOS-Cor-X-AndkCqX"
+print("cd DDOS-Cor-X-AndkCqX")
 t.sleep(0.05)
 print("""# kali
 python3 ddos-drak_matter.py""")
